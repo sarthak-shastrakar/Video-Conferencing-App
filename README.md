@@ -17,6 +17,5 @@ A real-time video conferencing application built with the MERN stack.
   <li>Socket.IO</li>
 </ul>
 <br>
-<br>
 <h2>Getting Started</h2>
 <p>Project Link:https://videoconferencingfrontend-6939.onrender.com </p>
