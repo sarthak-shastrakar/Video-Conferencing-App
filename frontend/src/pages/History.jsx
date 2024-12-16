@@ -25,6 +25,7 @@ export default function History() {
         setMeetings(history);
       } catch {
         <h3>HISTORY NOT SAVED</h3>
+        <p>See your history: <p/>
       }
     };
 
